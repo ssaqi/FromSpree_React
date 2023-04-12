@@ -1,0 +1,29 @@
+.bg-Color3{
+
+    width: 100%;
+    height: 800px;
+    background-color: #343a40;
+}
+
+
+
+@media only screen and (max-width: 640px) {
+
+
+    .bg-Color3{
+
+        height: 900px;
+    }
+}
+
+
+label{
+
+    color: #fff;
+}
+
+
+.m1{
+
+    height: 100px;
+}
